@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Password Protected Area"
+AuthUserFile /NFSHome/jholt/public_html/Finally/Admin/.htpasswd 
+Require valid-user

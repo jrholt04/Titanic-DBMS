@@ -1,0 +1,16 @@
+Survive,Class,Honorific,First Name,Last Name,Unmarried Name,Gender,Age,Siblings/Spouses On Board,Parents/Kids On Board,Ticket Number,Fare,Cabins ,Embarked From
+FALSE,3,Mr,Owen,Braund,,male,22,1,0,521171,7.25,,Southampton
+TRUE,1,Mrs,John,Cumings,Florence Briggs Thayer,female,38,1,0,17599,71.28,C85,Cherbourg
+TRUE,3,Miss,Laina,Heikkinen,,female,26,0,0,23101282,7.92,,Southampton
+TRUE,1,Mrs,Jacques,Futrelle,Lily May Peel,female,35,1,0,113803,53.1,C123,Southampton
+FALSE,3,Mr,William,Allen,,male,35,0,0,373450,8.05,,Southampton
+FALSE,3,Mr,James,Moran,,male,,0,0,330877,8.46,,Queenstown
+FALSE,1,Mr,Timothy,McCarthy,,male,54,0,0,17463,51.86,E46,Southampton
+FALSE,3,Master,Gosta,Palsson,,male,2,3,1,349909,21.08,,Southampton
+TRUE,3,Mrs,Oscar,Johnson,Elisabeth Vilhelmina Berg,female,27,0,2,347742,11.13,,Southampton
+TRUE,2,Mrs,Nicholas,Nasser,Adele Achem,female,14,1,0,237736,30.07,,Cherbourg
+TRUE,3,Miss,Marguerite,Sandstrom,,female,4,1,1,9549,16.7,G6,Southampton
+TRUE,1,Miss,Elizabeth,Bonnell,,female,58,0,0,113783,26.55,C103,Southampton
+FALSE,3,Mr,William,Saundercock,,male,20,0,0,52151,8.05,,Southampton
+FALSE,3,Mr,Anders,Andersson,,male,39,1,5,347082,31.28,,Southampton
+FALSE,3,Miss,Hulda,Vestrom,,female,14,0,0,350406,7.85,,Southampton

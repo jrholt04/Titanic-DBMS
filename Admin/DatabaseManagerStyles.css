@@ -1,0 +1,105 @@
+/* File: massInsertStyles.css
+Jackson Holt Transy u
+DBMS Dr. Moorman
+    this is the general style sheet for the titanic project
+    links: 
+    https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_syntax/Comments
+    https://www.w3schools.com/css/css_border_width.asp
+    https://stackoverflow.com/questions/6669846/css-input-field-text-color-of-inputted-text
+    https://teamtreehouse.com/community/controlling-border-length-across-the-page
+    https://www.viget.com/articles/styling-native-file-upload-input-field/ 
+    https://www.w3schools.com/html/html_classes.asp 
+    https://developer.mozilla.org/en-US/docs/Glossary/Scroll_container (setting container to auto)
+    https://skillcrush.com/blog/understanding-css-classes-vs-ids/#:~:text=In%20CSS%2C%20a%20class%20is,are%20specific%20to%20that%20class. (also something I learned to use at work)
+    https://www.w3schools.com/css/css3_flexbox.asp (Flexbox I have also used at work)
+    https://www.w3schools.com/cssref/pr_dim_min-width.php 
+    https://www.w3schools.com/cssref/css3_pr_flex-shrink.php
+    */
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    font-weight: bold;
+}
+a:visited{
+    color: white
+}
+body {
+    background-color:gray;
+}
+h1 {
+    color: white;
+    text-align: center;
+    }
+p {
+    color: white;
+    text-align: center;
+}
+table {
+    margin: 40px auto; 
+    border-collapse: collapse;
+    border: 2px solid white;
+    border-radius: 15px;
+    overflow: hidden; 
+    color: white;
+    width: 80%; 
+    background-color: #333; 
+}
+
+th, td {
+    padding: 12px 20px;
+    border-bottom: 1px solid white;
+    text-align: center;
+    color: white;
+}
+
+thead {
+    background-color: #444; 
+}
+
+th {
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+input {
+    color: white;
+}
+input, select, textarea{
+    color: black;
+    margin-bottom: 5;
+    margin-top: 5;
+}
+input[type="file"], select, textarea {
+    color: black;
+    margin-left: 50px;
+}
+
+form{
+    text-align:  center;
+    border-style: solid;
+    border-color: white;
+    border-radius: 15px;
+    margin-right: 400;
+    margin-left: 400;
+}
+
+.button{
+    text-align:  center;
+    border-style: none;
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.scroll-row {
+    display: flex;
+    overflow-x: auto;
+    padding: 5px;
+  }
+  
+  .table-wrapper {
+    min-width: 400px;
+    flex-shrink: 0;
+  }
