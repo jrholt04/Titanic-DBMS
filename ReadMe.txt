@@ -1,7 +1,3 @@
-Hello Dr. Moorman, 
-
-here are some simple need to knows for this website.
-    - username and pswd for admin
-        - u: root
-        - p: trasny1780
-
+This is a simple DBMS for a titanic DB system. 
+    if you want access messege me for the username and password
+    access: https://cs.transy.edu/jholt/Finally/ 
